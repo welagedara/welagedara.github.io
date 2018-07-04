@@ -1,6 +1,6 @@
 name: Pubudu Welagedara's Blog
 markdown: kramdown
-highlighter: true
+highlighter: rouge
 description: "Pubudu Welagedara's Blog"
 url: "welagedara.github.io"
 permalink: /posts/:title
