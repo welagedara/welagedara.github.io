@@ -1,9 +1,16 @@
 name: Pubudu Welagedara's Blog
-markdown: redcarpet
-pygments: true
+markdown: kramdown
+highlighter: true
 description: "Pubudu Welagedara's Blog"
 url: "welagedara.github.io"
 permalink: /posts/:title
 
-plugins:
-  - jekyll-srcset
+#srcset, sizes and dynamic media related
+artifact_base: /artifacts
+default_width: '1000'
+sizes: '(min-width: 1020px) 60vw, 90vw'
+
+srcset:
+  - 600
+  - 850
+  - 1200

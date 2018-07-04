@@ -12,6 +12,14 @@ https://github.com/jglovier/jekyll-new
 
 https://jekyllrb.com/docs/usage/
 
+## Responsive images
+
+https://benseymour.com/2017/03/02/Responsive-Images-in-Jekyll-without-a-plugin
+
+and
+
+https://github.com/bseymour/bseymour.github.io
+
 ## For development
 
 ```
