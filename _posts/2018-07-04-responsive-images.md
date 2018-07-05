@@ -3,7 +3,7 @@ layout: post
 title: "Responsive Images"
 categories: junk
 author: "Pubudu Welagedara"
-meta: "jekyll"
+meta: "Jekyll"
 ---
 
 [Jekyll][jekyll] does not support responsive images out of the box. There are plugins that can do that. 
@@ -38,7 +38,6 @@ convert ./artifacts/$IMAGE -resize 1200 ./artifacts/1200/$IMAGE
 ```
 
 After resizing the image I only had to add these lines to make my images responsive. Note that I am not using the `_config.yml` like Ben since I did not want to modify the code in two places to add an image( The downside to that is having to modify in many places if I ever need to modify an image I have already added :blush: Let's hope that never happens)
-
 
 ```md
 {% raw %}
