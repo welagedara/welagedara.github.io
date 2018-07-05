@@ -24,7 +24,7 @@ Add a `CNAME` record in your DNS Provider pointing to your GitHub domain. I am u
 
 I did not find a way to enable HTTPS from withing GitHub. There was an [article][cdn] on using a CDN to enforce HTTPS to your site.
 
-If you have an NGINX adding configuration like below to the conf files will route traffic from `https://pubudu.kubefire.com` to `http://yourhiddendomain.kubefire.com` where your GitHub Pages are.
+If you have an NGINX in the Public Domain adding configuration like below to the conf files will route traffic from `https://pubudu.kubefire.com` to `http://yourhiddendomain.kubefire.com` where your GitHub Pages are.
 
 ```
 server {
