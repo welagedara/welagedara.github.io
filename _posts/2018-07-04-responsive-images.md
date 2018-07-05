@@ -21,7 +21,23 @@ But unfortunately GitHub has to support it.
 
 [Ben Seymour][ben] has written a [post][post] on making images responsive. I got his code to work with some slight modifications. 
 
-After adding his code I only had to add these lines to make my images responsive. Note that I am not using the `_config.yml` like Ben since I did not want to modify the code in two places to add an image( The downside to that is having to modify in many places if I ever need to modify an image I have already added :blush: Let's hope that never happens)
+I created a shell script  `resize_image.sh` to resize an image in my  `artifact` directory and store them in the width buckets  `600`,  `850` and  `1200`.
+
+```bash
+#!/bin/bash
+
+# Prerequisite 
+# 1. ImageMagick
+
+# Pass image name as a param
+IMAGE=$1
+
+convert ./artifacts/$IMAGE -resize 600 ./artifacts/600/$IMAGE
+convert ./artifacts/$IMAGE -resize 850 ./artifacts/850/$IMAGE
+convert ./artifacts/$IMAGE -resize 1200 ./artifacts/1200/$IMAGE
+```
+
+After resizing the image I only had to add these lines to make my images responsive. Note that I am not using the `_config.yml` like Ben since I did not want to modify the code in two places to add an image( The downside to that is having to modify in many places if I ever need to modify an image I have already added :blush: Let's hope that never happens)
 
 
 ```md

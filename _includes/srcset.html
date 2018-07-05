@@ -1,4 +1,4 @@
-{% if image.quality %}
+<!-- {% if image.quality %}
   {% assign quality = image.quality %}
 {% else %}
   {% assign quality = 50 %}
@@ -8,4 +8,10 @@
   src="{{ site.artifact_base }}/{{ image }}?w={{ site.default_width }}&qlt={{ quality }}"
   sizes="{{ site.sizes }}"
   srcset="{% for width in site.srcset %}{{ site.artifact_base }}/{{ image }}?w={{ width }}&qlt={{ quality }} {{ width }}w{% if forloop.last == false %}, {% endif %}{% endfor %}"
+  alt="{{ alt }}"> -->
+
+  <img
+  src="{{ site.artifact_base }}/{{ image }}"
+  sizes="{{ site.sizes }}"
+  srcset="{% for width in site.srcset %}{{ site.artifact_base }}/{{ width }}/{{ image }} {{ width }}w{% if forloop.last == false %}, {% endif %}{% endfor %}"
   alt="{{ alt }}">
