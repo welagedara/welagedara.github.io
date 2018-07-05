@@ -2,3 +2,4 @@ _site
 2014-*.md
 .DS_Store
 Butterfly.jpg
+artifacts/.DS_Store
