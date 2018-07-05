@@ -15,10 +15,9 @@ plugins:
   - jemoji
 ```
 
-GitHub Pages [supports][plugins] Jemoji. 
+GitHub Pages [support][plugins] Jemoji. 
 
 [Here][emojis] is a complete list of Emojis supported.
-
 
 [jemoji]: https://github.com/jekyll/jemoji
 [jekyll-plugins]: https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
