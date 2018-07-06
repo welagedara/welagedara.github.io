@@ -14,7 +14,7 @@ You will notice that the highlighted text seems to overflow on smaller screens.
 
 There is a simple [fix][fix] for that. 
 
-Add the below lines to your css. 
+Add the below lines to your CSS. 
 ```css
 pre { white-space: pre; overflow: auto; }
 

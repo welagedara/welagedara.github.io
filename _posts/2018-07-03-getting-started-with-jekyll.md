@@ -11,7 +11,7 @@ Integration Servers. No Apache Web Servers. You just need your HTML.
 
 Oh wait...I don't want to write HTML. I don't want to spend time writing CSS to make my HTML pretty. Most of all, I don't want to spend days making my HTML pages responsive. Can't I eliminate the need to do all of this?
 
-I found two solutions.
+Two words.
 
 1. [AsciiDoc][asciidoc]
 2. [Jekyll][jekyll] 

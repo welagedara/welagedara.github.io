@@ -62,7 +62,7 @@ You are all set. Hit the endpoint using the browser( I am using a Self Signed Ce
 {% assign alt = "API Call" %}
 {% include srcset.html %}
 
-Don't forget to disable HTTP or enforce HTTP redirection to HTTPS in your Production Environments.
+Don't forget to disable HTTP or to enforce HTTP redirection to HTTPS in your Production Environments.
 
 {% assign image = "thank-you-potato.png" %}
 {% assign alt = "Potato" %}
