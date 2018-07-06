@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Custom Domains"
+title: "Custom Domains for GitHub Pages"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "Jekyll"
