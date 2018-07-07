@@ -19,7 +19,7 @@ meta: "Node.js"
 
 ## Promises
 
-A Commented Code Snippet from `./api/controllers/hello_world.js`
+A Commented Code Snippet from `hello_world.js`
 
 ```js
 function hello(req, res) {
@@ -39,7 +39,7 @@ function hello(req, res) {
 
 ## Database Integration
 
-A few Lines of Code from `./api/services/database/couchdb_database_service.js`
+A few Lines of Code from `couchdb_database_service.js`
 
 ```js
 
@@ -75,7 +75,7 @@ function getDocumentByCollection(collection) {
 
 ## REST Calls
 
-A few Code Snippet from `./api/services/api/w3school_api_service.js`
+A few Code Snippet from `w3school_api_service.js`
 
 ```js
 ...
@@ -104,7 +104,7 @@ function getCustomers() {
 
 ## CORS Middleware
 
-The CORS Filter `./middleware`
+The CORS Filter in `./middleware`
 
 ```js
 'use strict';
@@ -126,7 +126,7 @@ module.exports = function(app) {
 
 ## API Security
 
-A Code Snippet from `./app.js`.
+A Code Snippet from `app.js`.
 
 ```js
 ...
@@ -157,7 +157,7 @@ var config = {
 ```
 ## Environment Variables
 
-A Commented Code Snippet from `./app.js`.
+A Commented Code Snippet from `application_config.js`.
 
 ```js
 ...
