@@ -104,7 +104,7 @@ function getCustomers() {
 
 ## CORS Middleware
 
-The CORS Filter in `./middleware`
+The CORS Filter in `middleware` Directory
 
 ```js
 'use strict';
