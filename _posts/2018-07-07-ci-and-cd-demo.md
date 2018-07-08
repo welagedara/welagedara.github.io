@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bare-metal Continuous Integration and Continuous Deployment with Docker( Tutorial)"
+title: "Bare-metal Continuous Integration and Continuous Deployment with just Docker"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "CI and CD"
