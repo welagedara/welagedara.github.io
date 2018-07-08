@@ -6,7 +6,7 @@ author: "Pubudu Welagedara"
 meta: "OpenShift"
 ---
 
-Download the [PDF](/artifacts/os-tutorial.pdf) version of this presentation here.
+Download the PDF version of this presentation [here](/artifacts/os-tutorial.pdf).
 
 {% assign image = "Slide01.jpg" %}
 {% assign alt = "OpenShift" %}
