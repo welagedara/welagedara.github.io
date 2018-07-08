@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenShift for Dummies"
+title: "OpenShift for Dummies ft. My Slides"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "OpenShift"
