@@ -6,7 +6,7 @@ author: "Pubudu Welagedara"
 meta: "DevOps"
 ---
 
-I am going to deploy everything in one Cluster since Kubernetes Clusters are expensive. I am going to move the LDAP into that cluster since it is not required to have it outside now.
+I am going to deploy everything in one Cluster since Kubernetes Clusters are expensive. Then I am going to move the LDAP into that cluster since it is not required to have it outside now.
 
 ## Prerequisites
 
