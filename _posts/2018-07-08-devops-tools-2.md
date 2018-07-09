@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Production Kubernetes with DevOps Part 2 - The Ingress"
+title: "Production Kubernetes with DevOps Part 3 - The Ingress"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "DevOps"
@@ -12,19 +12,19 @@ I am going to deploy everything in one Cluster since Kubernetes Clusters are exp
 
 ### Create a Static IP
 
-```
+```bash
 gcloud auth login 
 
 gcloud config set project <project id>
 ```
 
 Then connect to the cluster using the connection string given.
-```
+```bash
 gcloud container clusters get-credentials kube-main --zone us-central1-a --project kubefire-209619
 ```
 
 Then create the Global IP
-```
+```bash
 gcloud compute addresses create devops-tools-ip --global
 
 gcloud compute addresses describe devops-tools-ip --global

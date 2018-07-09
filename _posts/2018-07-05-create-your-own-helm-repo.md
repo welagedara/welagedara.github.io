@@ -8,7 +8,7 @@ meta: "Helm Charts"
 
 [Helm][helm] is a Package Manager for Kubernetes. [Here][tutorial]'s a good getting started tutorial on Helm Charts. 
 
-[My Helm Chart Repo][repo] is exposed on <https://welagedara.github.io/helm/>.
+[My Helm Chart Repo][repo] is exposed on <https://welagedara.github.io/helm/>. 
 
 {% assign image = "helm-repo.png" %}
 {% assign alt = "My Helm Repo" %}

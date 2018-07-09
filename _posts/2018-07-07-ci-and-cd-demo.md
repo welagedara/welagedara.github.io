@@ -6,12 +6,12 @@ author: "Pubudu Welagedara"
 meta: "CI and CD"
 ---
 
-I wanted to demostrate how all bits and pieces fit together in an environment with microservices. This is that [demo][source].
+I wanted to demonstrate how all pieces fit together in an environment with microservices. This is that [demo][source].
 
 
 I am going to use `Consul`, `Registrator`, `HAProxy`, `Jenkins` and all other good stuff. A huge Thank You goes to the folks in the Open Source Community who created the Docker Images and Documentation around them showing how to use them. 
 
-If you want to see how the Load Balancer( HAProxy) starts routing traffic to a newly discovered service, I would suggesst going throgh `Consul` and `Registrator` Documentation. 
+If you want to see how the Load Balancer( HAProxy) starts routing traffic to a newly discovered service, I would suggesst going through `Consul` and `Registrator` Documentation. 
 
 So let's get started.
 
