@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Production Kubernetes with DevOps Part 3 - The Ingress"
+title: "Production Kubernetes with DevOps Part 2 - The Ingress"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "DevOps"
