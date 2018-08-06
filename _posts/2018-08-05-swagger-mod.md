@@ -73,6 +73,8 @@ swaggerMod('https://petstore.swagger.io/v2/swagger.json', opts)
   });
 ```
 
+The library is Free and Open Source. Thus use it any way you like :blush:
+
 [source]: https://www.npmjs.com/package/swagger-mod
 [regex]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
 
