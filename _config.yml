@@ -2,7 +2,7 @@ name: Pubudu's Blog
 markdown: kramdown
 highlighter: rouge
 description: "Pubudu Welagedara's Blog"
-url: "pubudu.online"
+url: "http://pubudu.online"
 permalink: /posts/:title
 
 #srcset, sizes and dynamic media related
