@@ -4,6 +4,7 @@ title: "Production Kubernetes with DevOps Part 2 - The Ingress"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "DevOps"
+comments: true
 ---
 
 I am going to deploy everything in one Cluster since Kubernetes Clusters are expensive. Then I am going to move the LDAP into that cluster since it is not required to have it outside now.

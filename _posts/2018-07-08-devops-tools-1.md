@@ -4,6 +4,7 @@ title: "Production Kubernetes with DevOps Part 1 - Visualization"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "DevOps"
+comments: true
 ---
 
 Production Kubernetes with DevOps can get insanely complicated due to the many tools, many integrations and many uncertain areas associated with it. 

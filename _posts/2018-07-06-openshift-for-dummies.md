@@ -4,6 +4,7 @@ title: "OpenShift for Dummies ft. My Slides"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "OpenShift"
+comments: true
 ---
 
 Download the PDF version of this presentation [here](/artifacts/os-tutorial.pdf).

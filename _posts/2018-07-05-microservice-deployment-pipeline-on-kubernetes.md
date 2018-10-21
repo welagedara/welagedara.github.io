@@ -4,6 +4,7 @@ title: "Microservice Deployment Pipeline on Kubernetes"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "Helm Charts"
+comments: true
 ---
 
 "Microservices Deployment Pipelines" is a daunting topic for anyone. I am going to explain how I built a Microservices Deployment Pipeline on Kubernetes. This project is inspired by [Croc Hunter][crochunter] repo.

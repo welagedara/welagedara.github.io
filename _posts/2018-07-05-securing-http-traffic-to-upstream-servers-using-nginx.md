@@ -4,6 +4,7 @@ title: "Securing HTTP Traffic to Upstream Servers using NGINX"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "NGINX"
+comments: true
 ---
 
 How do you secure your backend using HTTPS? I will create a Swagger Node Project to show you how.

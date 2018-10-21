@@ -4,6 +4,7 @@ title: "Responsive Images"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "Jekyll"
+comments: true
 ---
 
 [Jekyll][jekyll] does not support responsive images out of the box. There are plugins that can do that. 

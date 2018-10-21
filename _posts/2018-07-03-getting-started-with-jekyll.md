@@ -4,6 +4,7 @@ title: "Getting Started with Jekyll"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "Jekyll"
+comments: true
 ---
 
 [GitHub Pages][gh-pages] are awesome! Who doesn't want to host a website directly from the repo. No Continuous

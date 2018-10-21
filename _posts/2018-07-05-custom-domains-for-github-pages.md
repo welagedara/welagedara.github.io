@@ -4,6 +4,7 @@ title: "Custom Domains for GitHub Pages"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "Jekyll"
+comments: true
 ---
 
 GitHub Documentation on [Setting up Custom Domains][custom-subdomain] will not that great if you do not know what you are supposed to do.

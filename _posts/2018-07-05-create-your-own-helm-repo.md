@@ -4,6 +4,7 @@ title: "Create your own Helm Repo"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "Helm Charts"
+comments: true
 ---
 
 [Helm][helm] is a Package Manager for Kubernetes. [Here][tutorial]'s a good getting started tutorial on Helm Charts. 

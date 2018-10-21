@@ -4,6 +4,7 @@ title: "Responsive YouTube for Jekyll"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "Jekyll"
+comments: true
 ---
 
 A huge shout-out goes to [eduardoboucas][eduardoboucas] for figuring this out. He has written a long [blog post][post] on this.

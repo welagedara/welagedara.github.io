@@ -4,6 +4,7 @@ title: "Node.js Starter with Swagger Generation, Security, Database( CouchDB) an
 categories: junk
 author: "Pubudu Welagedara"
 meta: "Node.js"
+comments: true
 ---
 
 [This Project][source] has been created to facilitate Node.js API Development. I added all the bits and pieces that you need to get a solid Node.js project running.

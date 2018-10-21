@@ -4,6 +4,7 @@ title: "An Ingress with HTTPS Traffic in Upstream Servers, HTTPS Redirection and
 categories: junk
 author: "Pubudu Welagedara"
 meta: "Kubernetes"
+comments: true
 ---
 
 IBM has done a very good job on their [Ingress Documentation][documentation].

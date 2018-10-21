@@ -4,6 +4,7 @@ title: "Bare-metal Continuous Integration and Continuous Deployment with just Do
 categories: junk
 author: "Pubudu Welagedara"
 meta: "CI and CD"
+comments: true
 ---
 
 I wanted to demonstrate how all pieces fit together in an environment with microservices. This is that [demo][source].

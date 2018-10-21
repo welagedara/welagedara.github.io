@@ -4,6 +4,7 @@ title: "Enabling Emojis"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "Jekyll"
+comments: true
 ---
 
 It is nice to have Emojis in a blog. [Jemoji][jemoji] is a Jekyll plugin to generate emojis in your Jekyll Blog. 

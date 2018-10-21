@@ -4,6 +4,7 @@ title: "Awesome Kubernetes Tutorials on YouTube :blush:"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "Jekyll"
+comments: true
 ---
 
 

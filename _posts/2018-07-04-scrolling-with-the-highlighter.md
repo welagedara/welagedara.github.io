@@ -4,6 +4,7 @@ title: "Scrolling with the Highlighter"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "Jekyll"
+comments: true
 ---
 
 You will notice that the highlighted text seems to overflow on smaller screens. 
