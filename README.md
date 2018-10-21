@@ -2,7 +2,7 @@
 
 ## Site URL
 
-https://welagedara.github.io
+https://pubudu.online
 
 ## Theme taken from 
 

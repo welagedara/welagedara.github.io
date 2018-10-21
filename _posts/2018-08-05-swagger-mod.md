@@ -4,6 +4,7 @@ title: "Swagger-mod; A Filter for your Swagger Documents"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "Node.js"
+comments: true
 ---
 
 I am positive that I am not the only one who wanted to modify an existing Swagger Document to get rid of the APIs that you do not want others to see. 
