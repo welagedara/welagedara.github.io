@@ -17,3 +17,7 @@ srcset:
 
 plugins:
   - jemoji
+  - jekyll-paginate
+
+paginate: 8
+paginate_path: "/blog/page:num/"
