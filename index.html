@@ -8,9 +8,7 @@ layout: default
 
   <ul class="posts">
     {% for post in paginator.posts %}
-    <li><span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link" href="{{ post.url }}">{{ post.title }}</a></li>
-    {{ post.content | strip_html | truncatewords:30}}<br>
-    <a href="{{ post.url }}">Read more...</a><br><br>
+    <li><span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link" href="{{ post.url }}">{{ post.title }}</a><br/>{{ post.content | strip_html | truncatewords:30}}<br><a href="{{ post.url }}">Read more...</a><br></li>
     {% endfor %}
   </ul>
 
