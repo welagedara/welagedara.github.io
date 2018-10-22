@@ -58,10 +58,12 @@ Then emded the `JavaScript` to the template.
 My Disqus Configuration looks like this
 
 ```js
+{% raw %}
 var disqus_config = function () {
     this.page.url = "{{ site.url }}{{ page.url }}";
     this.page.identifier = "{{ page.id }}";
 };
+{% endraw %}
 ```
 Now you should be able to see a comments section for each post.
 
