@@ -2,7 +2,7 @@
 
 ## Site URL
 
-https://pubudu.online
+http://pubudu.online
 
 ## Theme taken from 
 
