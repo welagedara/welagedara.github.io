@@ -19,5 +19,5 @@ plugins:
   - jemoji
   - jekyll-paginate
 
-paginate: 8
+paginate: 7
 paginate_path: "/blog/page:num/"
