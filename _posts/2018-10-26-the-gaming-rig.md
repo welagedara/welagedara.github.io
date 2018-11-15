@@ -3,7 +3,7 @@ layout: post
 title: "The Gaming Rig( i7 8700K, GTX 1080, 16GB RAM, 512GB M.2) ~2K USD"
 categories: junk
 author: "Pubudu Welagedara"
-meta: "TLS"
+meta: "Computer Hardware"
 comments: true
 ---
 
