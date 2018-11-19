@@ -7,7 +7,7 @@ meta: "Computer Hardware"
 comments: true
 ---
 
-I don't assemble computers everyday.  So cut me some slack if I get something wrong.
+I don't get to assemble computers everyday.  So cut me some slack if I get something wrong.
 
 First thing's first. Ground yourself with the Anti Static Wrist Wrap.
 
