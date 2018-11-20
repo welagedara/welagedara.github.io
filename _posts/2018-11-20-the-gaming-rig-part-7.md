@@ -30,7 +30,7 @@ In the graph, x- Axis  depicts the frame number and the y- Axis depicts the time
 - 0.1% Low: 18ms => (1/18)/10^(-3) =~ 56 FPS
 
 Notes: 
-- For Computer Gaming Frame Rates more than 30 FPS is considered sufficient
+- For Computer Gaming, Frame Rates above 30 FPS is considered sufficient
 - G- SYNC from Nvidia matches the frame rate of the Nvidia Graphics Card to that of the Monitor eliminating the screen tear
 - Higher Frame Rate is preferred over a Higher Resolution in Gaming
 
