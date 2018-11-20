@@ -13,7 +13,7 @@ Benchmarking the GPU and the CPU are considered integral parts of any PC build.
 
 To measure the GPU performance, Frames Per Second( FPS) is measured against the resolution( 1080p, 1440p, 4K etc). 
 
-The G- SYNC panel in Alienware AW2518H has a native resolution of 1080p. Therefore benchmarking was done at 1080p with all graphics settings set to the highest.
+The G- SYNC panel in Alienware AW2518H has a native resolution of 1080p. Therefore benchmarking was done at 1080p with all graphics settings set to the highest in Black Ops 4 Multiplayer( Arsenal).
 
 {% assign image = "BlackOps4.png" %}
 {% assign alt = "FPS" %}
