@@ -30,7 +30,7 @@ Here are the things I bought.
 {% assign alt = "CPU & MB" %}
 {% include srcset.html %}
 
-- High refresh rate Alienware Gaming Monitor X 1
+- High refresh rate Alienware Gaming Monitor with G- SYNC X 1
 - Alienware Gaming Keyboard X 1
 - Alienware Gaming Mouse X 1
 {% assign image = "4-rig.png" %}
