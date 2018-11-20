@@ -9,7 +9,7 @@ comments: true
 
 Benchmarking the GPU and the CPU are considered integral parts of any PC build. 
 
-## GPU Benchmark( FRAPS)
+## GPU Benchmark( [FRAPS][fraps])
 
 To measure the GPU performance, Frames Per Second( FPS) is measured against the resolution( 1080p, 1440p, 4K etc). 
 
@@ -34,7 +34,7 @@ Notes:
 - G- SYNC from Nvidia matches the frame rate of the Nvidia Graphics Card to that of the Monitor eliminating the screen tear
 - Higher Frame Rate is preferred over a Higher Resolution in Gaming
 
-## Cinebench R15 Benchmark
+## [Cinebench R15][cinebench] Benchmark
 
 Cinebench is a Test Suite that evaluates a Computer's performance. This benchmark gives a score( Number of FPS for GPU performance and Points for CPU performance) based on the tests performed. Your results can be compared against other systems with similar specifications to see where yours stand.
 
@@ -51,8 +51,8 @@ Cinebench is a Test Suite that evaluates a Computer's performance. This benchmar
 {% include srcset.html %}
 
 
-
-
+[fraps]: http://www.fraps.com/
+[cinebench]: https://www.maxon.net/en/products/cinebench/
 
 
 
