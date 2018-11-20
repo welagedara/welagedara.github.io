@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Gaming Rig Part 5; Cable Management"
+title: "The Gaming Rig Part 6; Cable Management"
 categories: junk
 author: "Pubudu Welagedara"
 meta: "Computer Hardware"
