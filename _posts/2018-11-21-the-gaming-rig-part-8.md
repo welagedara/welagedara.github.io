@@ -7,7 +7,7 @@ meta: "Computer Hardware"
 comments: true
 ---
 
-Now its time for the Disk Benchmarks. The quantified parameters in the Disk Benchmark are explained [here][crystal_disk].
+Now it is time for the Disk Benchmarks. The quantified parameters in the Disk Benchmark are explained [here][crystal_disk].
 
 {% assign image = "disk.png" %}
 {% assign alt = "Disk" %}
