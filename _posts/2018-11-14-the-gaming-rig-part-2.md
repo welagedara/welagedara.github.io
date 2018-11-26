@@ -26,7 +26,7 @@ Here are the things I bought.
 
 - Intel Core i7 8700K
 - Asus ROG Maximus XI Hero( Wi-Fi) Motherboard X 1
-{% assign image = "3-rig.png" %}
+{% assign image = "3-rig-corrected.png" %}
 {% assign alt = "CPU & MB" %}
 {% include srcset.html %}
 
