@@ -20,7 +20,7 @@ Here are the things I bought.
 - An Anti Static Wrist Wrap X 1
 - 250GB Samsung M.2 NVMe SSD X 1
 - RTX 2080 Founders Edition X 1
-{% assign image = "2-rig.png" %}
+{% assign image = "2-rig-corrected.png" %}
 {% assign alt = "More Stuff" %}
 {% include srcset.html %}
 
