@@ -108,33 +108,3 @@ The Source Code of the above Projects is available on my [GitHub][github].
 [video_tutorial]: https://www.youtube.com/watch?v=fbyrLo6yx8M
 [create_new]: https://help.github.com/articles/creating-a-new-repository/
 [github]: https://github.com/pwelagedara/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

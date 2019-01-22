@@ -224,29 +224,3 @@ Source code is available [here][source].
 
 [initializr]: https://start.spring.io/
 [source]: https://github.com/pwelagedara/spring-security-starter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

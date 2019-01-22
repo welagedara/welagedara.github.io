@@ -14,25 +14,3 @@ Now it is time for the Disk Benchmarks. The quantified parameters in the Disk Be
 {% include srcset.html %}
 
 [crystal_disk]: https://www.brentozar.com/archive/2012/03/how-fast-your-san-or-how-slow/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

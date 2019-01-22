@@ -58,26 +58,3 @@ Enjoy :blush:
 {% assign image = "32-rig.JPG" %}
 {% assign alt = "The Rig" %}
 {% include srcset.html %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
