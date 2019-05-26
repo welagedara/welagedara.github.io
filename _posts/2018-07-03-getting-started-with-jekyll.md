@@ -40,7 +40,7 @@ Ciao!
 [gh-pages]: https://pages.github.com/
 [asciidoc]: https://asciidoctor.org/docs/what-is-asciidoc/
 [jekyll]: http://jekyllrb.com
-[my-source]: https://github.com/pwelagedara/pwelagedara.github.io
-[my-pages]: https://pwelagedara.github.io/
+[my-source]: https://github.com/pubudu-online/pubudu-online.github.io
+[my-pages]: https://pubudu-online.github.io/
 [my-jekyll-source]: https://github.com/welagedara/welagedara.github.io
 [my-jekyll-pages]: https://welagedara.github.io/
