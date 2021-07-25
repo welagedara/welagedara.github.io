@@ -1,0 +1,16 @@
+{
+  "dataRecipients": [
+    {
+      "dataRecipientId": "adr01",
+      "dataRecipientStatus": "ACTIVE"
+    },
+    {
+      "dataRecipientId": "adr02",
+      "dataRecipientStatus": "ACTIVE"
+    },
+    {
+      "dataRecipientId": "adr03",
+      "dataRecipientStatus": "ACTIVE"
+    }
+  ]
+}
