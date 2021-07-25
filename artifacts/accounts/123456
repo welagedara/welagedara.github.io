@@ -1,0 +1,14 @@
+[
+  {
+    "accountId": "456789",
+    "accountName": "Account Name",
+    "nickName": "Nickname",
+    "customerAccountType": "Personal",
+    "type": "Type",
+    "jointAccountConsentElectionStatus": false,
+    "jointAccountinfo": null,
+    "bsb": "123",
+    "isEligible": true,
+    "isJointAccount": false
+  }
+]
