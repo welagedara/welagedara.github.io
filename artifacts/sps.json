@@ -1,0 +1,17 @@
+{
+  "softwareProducts": [
+    {
+      "softwareProductId": "sp01",
+      "softwareProductStatus": "ACTIVE"
+    },
+    {
+      "softwareProductId": "sp02",
+      "softwareProductStatus": "ACTIVE"
+    },
+    {
+      "softwareProductId": "sp03",
+      "softwareProductStatus": "ACTIVE"
+    }
+    
+  ]
+}
