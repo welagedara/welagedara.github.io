@@ -1,0 +1,10 @@
+{
+  "memberId": "123456",
+  "email": "123456@someemail.com",
+  "fullName": "Full Name",
+  "firstName": "First Name",
+  "surname": "Surname",
+  "lastUpdatedAt": "01/01/2020",
+  "customerUType": "Individual",
+  "memberStatus": "Active"
+}
